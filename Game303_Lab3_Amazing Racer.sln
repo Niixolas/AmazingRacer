@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game303_Lab3_Amazing Racer", "Game303_Lab3_Amazing Racer.csproj", "{08DBA35E-33C4-4259-7C8E-9147B3D0915D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game303_Lab3_Amazing Racer.Plugins", "Game303_Lab3_Amazing Racer.Plugins.csproj", "{E56DA8D5-4158-DBAE-C32A-7ECEA4374111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game303_Lab3_Amazing Racer.Editor.Plugins", "Game303_Lab3_Amazing Racer.Editor.Plugins.csproj", "{EBFE6A80-92ED-7D1B-6F62-F469A9C04E69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08DBA35E-33C4-4259-7C8E-9147B3D0915D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08DBA35E-33C4-4259-7C8E-9147B3D0915D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08DBA35E-33C4-4259-7C8E-9147B3D0915D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08DBA35E-33C4-4259-7C8E-9147B3D0915D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E56DA8D5-4158-DBAE-C32A-7ECEA4374111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E56DA8D5-4158-DBAE-C32A-7ECEA4374111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E56DA8D5-4158-DBAE-C32A-7ECEA4374111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E56DA8D5-4158-DBAE-C32A-7ECEA4374111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBFE6A80-92ED-7D1B-6F62-F469A9C04E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFE6A80-92ED-7D1B-6F62-F469A9C04E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFE6A80-92ED-7D1B-6F62-F469A9C04E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFE6A80-92ED-7D1B-6F62-F469A9C04E69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
